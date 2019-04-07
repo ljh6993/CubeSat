@@ -1,17 +1,6 @@
-// DualMotorShield.pde
-// -*- mode: C++ -*-
-//
+
 // Shows how to run 2 simultaneous steppers
-// using the Itead Studio Arduino Dual Stepper Motor Driver Shield
-// model IM120417015
-// This shield is capable of driving 2 steppers at 
-// currents of up to 750mA
-// and voltages up to 30V
-// Runs both steppers forwards and backwards, accelerating and decelerating
-// at the limits.
-//
-// Copyright (C) 2014 Mike McCauley
-// $Id:  $
+
 
 #include <AccelStepper.h>
 
